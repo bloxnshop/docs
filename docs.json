@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "palm",
-  "name": "Mint Starter Kit",
+  "name": "BloxNShop Documentation",
   "colors": {
     "primary": "#631f78"
   },
@@ -87,8 +87,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/logoall.svg",
+    "dark": "/logo/logoall.svg"
   },
   "navbar": {
     "links": [
