@@ -18,8 +18,12 @@
   "dismissible": true
 },
   "navigation": {
-    "pages": [
-      "index"
+    "anchors": [
+      {
+        "anchor": "Welcome",
+        "icon": "hand",
+        "href": "index"
+      }
     ],
     "groups": [
           {
