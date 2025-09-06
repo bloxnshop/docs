@@ -3,7 +3,9 @@
   "theme": "almond",
   "name": "BloxNShop Documentation",
   "colors": {
-    "primary": "#631f76"
+    "primary": "#631f78",
+    "dark": "#631f78",
+    "light": "#631f78"
   },
   "favicon": "/favicon.svg",
   "navigation": {
