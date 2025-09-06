@@ -16,57 +16,47 @@
   "navigation": {
     "groups": [
           {
-            "group": "Getting started",
+            "group": "General Information",
+            "icon": "globe",
             "pages": [
               "index",
               "faq",
-              "apppeals",
+              "appeals",
               "contacts"
             ]
           },
           {
-            "group": "Customization",
+            "group": "Staff Information",
+            "icon": "clipboard-user",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "staffinformation/staff-code-of-conduct",
+              "staffinformation/moderation-guide",
+              "staffinformation/store-map",
+              "staffinformation/sample-messages",
+              "staffinformation/store-map",
+              {
+            "group": "5 | Instructions of Duty",
+            "icon": "briefcase",
+            "pages": [
+              "instructionsofduty/cashier",
+              "instructionsofduty/restocking",
+              "instructionsofduty/janitor",
+              "instructionsofduty/security"
             ]
           },
-          {
-            "group": "Writing content",
+              {
+            "group": "6 | Special Program Guide",
+            "icon": "fire",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "specialprogramguide/fire"
             ]
           },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "staffinformation/promotion-guide",
+              "staffinformation/corporate-departments"
             ]
           }
         ],
     "global": {
-      "anchors": [
-        {
-          "anchor": "Welcome",
-          "href": "https://mintlify.com/docs",
-          "icon": "hand"
-        },
-        {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
     }
   },
   "logo": {
@@ -76,14 +66,15 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "type": "button",
+        "label": "Roblox Group",
+        "href": "https://www.roblox.com/groups/33854030/BloxNShop-Limited#!/about"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Discord Server",
+      "href": "https://discord.gg/myeZnmbD85"
     }
   },
   "contextual": {
