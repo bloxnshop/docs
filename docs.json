@@ -1,22 +1,20 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "palm",
+  "theme": "almond",
   "name": "BloxNShop Documentation",
   "colors": {
     "primary": "#631f78"
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
-      {
-        "tab": "Guides",
-        "groups": [
+    "groups": [
           {
             "group": "Getting started",
             "pages": [
               "index",
-              "quickstart",
-              "development"
+              "faq",
+              "apppeals",
+              "contacts"
             ]
           },
           {
@@ -43,35 +41,13 @@
               "ai-tools/windsurf"
             ]
           }
-        ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
-      }
-    ],
+        ],
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "Welcome",
           "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "icon": "hand"
         },
         {
           "anchor": "Community",
