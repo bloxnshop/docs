@@ -7,7 +7,12 @@
     "dark": "#631f78",
     "light": "#631f78"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/logoall.svg",
+  "seo": {
+    "metatags": {
+        "og:image": "images/banner.jpg"
+    }
+},
   "navigation": {
     "groups": [
           {
