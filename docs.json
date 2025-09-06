@@ -18,12 +18,8 @@
   "dismissible": true
 },
   "navigation": {
-    "anchors": [
-      {
-        "anchor": "Welcome",
-        "icon": "hand",
-        "href": "index"
-      }
+    "pages": [
+      "index"
     ],
     "groups": [
           {
@@ -65,9 +61,7 @@
               "staffinformation/corporate-departments"
             ]
           }
-        ],
-    "global": {
-    }
+        ]
   },
   "logo": {
     "light": "/logo/logoall.svg",
