@@ -64,23 +64,23 @@
     "dark": "/logo/logoall.svg"
   },
   "navbar": {
-    "primary": {
+    "links": [
+      {
       "type": "button",
       "label": "Discord Server",
       "href": "https://discord.gg/myeZnmbD85"
     },
-    "primary": {
+    {
       "type": "button",
       "label": "Roblox Group",
       "href": "https://www.roblox.com/groups/33854030/BloxNShop-Limited#!/about"
-    },
-    "links": [
-      {
+    }
+    ],
+    "primary": {
         "type": "button",
         "label": "Link Portal",
         "href": "https://linktr.ee/bloxnshop"
-      }
-    ],
+    }
   },
   "contextual": {
     "options": [
