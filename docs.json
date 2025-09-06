@@ -18,12 +18,14 @@
   "dismissible": true
 },
   "navigation": {
+    "pages": [
+      "index"
+    ],
     "groups": [
           {
             "group": "General Information",
             "icon": "globe",
             "pages": [
-              "index",
               "faq",
               "appeals",
               "contacts"
