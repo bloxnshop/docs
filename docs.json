@@ -14,8 +14,16 @@
         "charset": "UTF-8",
         "viewport": "width=device-width, initial-scale=1.0",
         "description": "The BloxNShop Documentation site is your #1 source for all things BloxNShop! Here you can find staff information, the changelog, and much more.",
-        "keywords": "bloxnshop, bns, roblox, documentation, blox, store, shop"
-    }
+        "keywords": "bloxnshop, bns, roblox, documentation, blox, store, shop",
+        "robots": "index, follow",
+        "googlebot": "index, follow",
+        "theme-color": "#631f78",
+        "color-scheme": "dark purple",
+        "language": "en",
+        "category": "Gaming",
+        "og:description": "The BloxNShop Documentation site is your #1 source for all things BloxNShop! Here you can find staff information, the changelog, and much more."
+    },
+    "indexing": "navigable"
 },
   "banner": {
   "content": "🚀 Welcome to our new documentation site!",
