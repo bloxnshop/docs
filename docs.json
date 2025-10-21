@@ -18,7 +18,11 @@
   "dismissible": true
 },
   "navigation": {
-    "groups": [
+    "tabs": [
+      {
+        "tab": "Documentation",
+        "icon": "book",
+        "groups": [
           {
             "group": "General Information",
             "icon": "globe",
@@ -60,6 +64,16 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Changelog",
+        "icon": "clock-rotate-left",
+        "pages": [
+          "/changelog"
+        ]
+      }
+    ]
+    
   },
   "logo": {
     "light": "/logo/logoall.svg",
