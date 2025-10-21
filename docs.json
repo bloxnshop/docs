@@ -41,8 +41,8 @@
               "staffinformation/moderation-guide",
               "staffinformation/store-map",
               "staffinformation/sample-messages",
-              "staffinformation/store-map",
-              {
+              "staffinformation/store-map",    
+          {
             "group": "5 | Instructions of Duty",
             "icon": "briefcase",
             "pages": [
@@ -69,7 +69,7 @@
         "tab": "Changelog",
         "icon": "clock-rotate-left",
         "pages": [
-          "/changelog"
+          "changelog"
         ]
       }
     ]
