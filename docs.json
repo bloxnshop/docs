@@ -103,5 +103,12 @@
       "youtube": "https://www.youtube.com/@BloxNShopLimited",
       "threads": "https://www.threads.net/@bloxnshop"
     }
+  },
+  "errors": {
+    "404": {
+      "redirect": false,
+      "title": "Page not found",
+      "description": "*This page dissapeared as mysteriously as the plants section.. 🪴"
+      }
+    }
   }
-}
