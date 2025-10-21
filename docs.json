@@ -10,7 +10,11 @@
   "favicon": "/logo/logoall.svg",
   "seo": {
     "metatags": {
-        "og:image": "images/banner.jpg"
+        "og:image": "images/banner.jpg",
+        "charset": "UTF-8",
+        "viewport": "width=device-width, initial-scale=1.0",
+        "description": "The BloxNShop Documentation site is your #1 source for all things BloxNShop! Here you can find staff information, the changelog, and much more.",
+        "keywords": "bloxnshop, bns, roblox, documentation, blox, store, shop"
     }
 },
   "banner": {
