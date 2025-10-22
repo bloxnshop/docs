@@ -22,7 +22,8 @@
         "color-scheme": "dark purple",
         "language": "en",
         "category": "Gaming",
-        "og:description": "The BloxNShop Documentation site is your #1 source for all things BloxNShop! Here you can find staff information, the changelog, and much more."
+        "og:description": "The BloxNShop Documentation site is your #1 source for all things BloxNShop! Here you can find staff information, the changelog, and much more.",
+        "canonical": "https://bloxnshop.mintlify.app/"
     },
     "indexing": "navigable"
 },
