@@ -27,10 +27,6 @@
     },
     "indexing": "navigable"
 },
-  "banner": {
-  "content": "🚀 Welcome to our new documentation site!",
-  "dismissible": true
-},
   "navigation": {
     "tabs": [
       {
