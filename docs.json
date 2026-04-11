@@ -51,24 +51,23 @@
               "staffinformation/moderation-guide",
               "staffinformation/store-map",
               "staffinformation/sample-messages",
-              "staffinformation/store-map",    
-          {
-            "group": "5 | Instructions of Duty",
-            "icon": "briefcase",
-            "pages": [
-              "instructionsofduty/cashier",
-              "instructionsofduty/restocking",
-              "instructionsofduty/janitor",
-              "instructionsofduty/security"
-            ]
-          },
               {
-            "group": "6 | Special Program Guide",
-            "icon": "fire",
-            "pages": [
-              "specialprogramguide/fire"
-            ]
-          },
+                "group": "5 | Instructions of Duty",
+                "icon": "briefcase",
+                "pages": [
+                  "instructionsofduty/cashier",
+                  "instructionsofduty/restocking",
+                  "instructionsofduty/janitor",
+                  "instructionsofduty/security"
+                ]
+              },
+              {
+                "group": "6 | Special Program Guide",
+                "icon": "fire",
+                "pages": [
+                  "specialprogramguide/fire"
+                ]
+              },
               "staffinformation/promotion-guide",
               "staffinformation/corporate-departments"
             ]
@@ -83,7 +82,6 @@
         ]
       }
     ]
-    
   },
   "logo": {
     "light": "/logo/logoall.svg",
