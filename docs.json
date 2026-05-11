@@ -118,6 +118,10 @@
      "vscode"
    ]
   },
+  "banner": {
+   "content": "🏆 Voting is now open for the BloxNShop Awards! [Vote here](https://tally.so/r/dWKAzK).",
+   "dismissible": true
+  },
   "footer": {
     "socials": {
       "discord": "https://discord.com/invite/7Vux6mqC8N",
