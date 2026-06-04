@@ -85,9 +85,6 @@
   "thumbnails": {
     "background": "/images/ogimage.png"
   }, 
-  "fonts": {
-    "family": "DM Sans"
-  },
   "logo": {
     "light": "/logo/logoall.svg",
     "dark": "/logo/logoall.svg"
