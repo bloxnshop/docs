@@ -83,10 +83,7 @@
     ]
   },
   "thumbnails": {
-    "background": "/images/ogimage.png",
-    "fonts": {
-      "family": "DM Sans"
-    }
+    "background": "/images/ogimage.png"
   }, 
   "fonts": {
     "family": "DM Sans"
