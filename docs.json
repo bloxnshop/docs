@@ -112,18 +112,8 @@
   "contextual": {
     "options": [
      "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
-  },
-  "banner": {
-   "content": "🏆 Voting is now open for the BloxNShop Awards! [Vote here](https://tally.so/r/dWKAzK).",
-   "dismissible": true
+    "view"
+  ]
   },
   "footer": {
     "socials": {
